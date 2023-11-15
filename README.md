@@ -27,7 +27,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 Clone the repo:
 
-    git clone https://github.com/grimyfishtank/hosted-okx-api-with-pendax
+    git clone https://github.com/grimyfishtank/hosted-okx-api-with-pendax.git
 
 Navigate to the project directory:
 
